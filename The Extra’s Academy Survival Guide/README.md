@@ -2,7 +2,8 @@
 
 ## 📖 Series Profile & Premise
 - **Title**: The Extra’s Academy Survival Guide (아카데미의 사냥개 / 아카데미 살아가기)
-- **Source Link**: `https://asurascans.com/comics/the-extras-academy-survival-guide-05c7df14`
+- **Source Link**: `https://asurascans.com/comics/the-extras-academy-survival-guide-3ec3b16f`
+- **Direct Chapter Format**: `https://asurascans.com/comics/the-extras-academy-survival-guide-3ec3b16f/chapter/{chapter_number}`
 - **Protagonist**: Ed Rothstaylor (에드 로스테일러)
 - **Primary Heroines**:
   - **Yenika Faelorr** (Golden-haired elementalist prodigy, wholesome romance, gentle and warmhearted)

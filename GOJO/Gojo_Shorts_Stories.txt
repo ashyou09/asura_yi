@@ -1,0 +1,721 @@
+GOJO SATORU — YOUTUBE SHORTS EDIT SCRIPTS
+Jujutsu Kaisen Manga × Anime × Realistic Art Hybrid Edits
+Format: 15-25 second viral shorts
+Genre: Dark, epic, hype, power-fantasy
+
+============================================================
+
+EDIT 001 — THE HONORED ONE AWAKENS
+
+Theme: Gojo's first full power reveal — the moment the world understood what a god looks like
+Mood: Dark buildup → explosive hype
+Duration: 18 seconds
+Music Vibe: Drift phonk (heavy bass, cowbell pattern)
+
+SCENE 1 (0.0s - 1.5s): HOOK — THE BLINDFOLD
+Visual: Extreme close-up of Gojo's black blindfold. Slow Ken Burns zoom into the fabric texture. Single manga panel — ink-black crosshatch shading on the blindfold.
+Motion: Slow zoom 1.0 → 1.1x
+Audio: Deep sub-bass rumble (20Hz), ticking clock effect, faint whisper: "You want to see?"
+Text: —
+
+SCENE 2 (1.5s - 2.0s): BEAT DROP — THE REVEAL
+Visual: WHITE FLASH → Anime clip of Gojo removing blindfold. Six Eyes ignite — neon cyan iris fills the screen. Chromatic aberration on the eye reveal.
+Motion: Snap zoom 1.0 → 1.4x, screen shake (30px, 6 frames)
+Audio: MASSIVE bass drop + metallic impact hit + glass shatter SFX
+Text: Kinetic pop: "六眼 SIX EYES" (cyan glow stroke)
+
+SCENE 3 (2.0s - 8.0s): MAIN FLOW — POWER SHOWCASE
+Visual: Rapid cycling —
+  - Manga panel: Gojo standing with Infinity active (B&W, Chapter 73)
+  - → Flash → Anime clip: Red technique firing (crimson explosion)
+  - → Realistic AI art: Gojo floating in mid-air, arms spread, blue aura radiating
+  - → Flash → Manga panel: Hollow Purple double-page spread
+  - → Anime clip: Purple beam obliterating a city block
+  - → Realistic art: Close-up Six Eyes with universe reflected in iris
+Motion: Hard cuts on every beat, speed ramp (0.5x → 2x on action), zoom punches on drops
+Audio: Full phonk beat flowing, sub-bass booms on each major cut, energy charge-up whoosh before Hollow Purple
+Text: Word-by-word kinetic narration: "Throughout / Heaven / and / Earth / I / alone / am / the / Honored / One"
+
+SCENE 4 (8.0s - 10.0s): BUILDUP — DOMAIN
+Visual: Manga panel of Gojo's Domain hand sign (fingers interlocked), slow dramatic zoom. Screen starts glitching — chromatic aberration increasing, reality fragmenting.
+Motion: Ken Burns 1.0 → 1.2x, escalating glitch overlay
+Audio: Music builds tension, heartbeat layered in, energy charging SFX
+Text: Text assembling letter by letter: "D O M A I N   E X P A N S I O N"
+
+SCENE 5 (10.0s - 12.0s): CLIMAX — INFINITE VOID
+Visual: FLASH → Anime Domain Expansion activation → Realistic AI art of the Infinite Void interior: infinite black cosmos, hundreds of floating geometric eyes, victim frozen in space
+Motion: Massive zoom punch 1.0 → 1.5x, heavy screen shake (40px), chromatic aberration flash
+Audio: HEAVY bass drop + thunder crack + glass shatter cascade + Gojo voice: "無量空処 (Muryōkūsho)"
+Text: Bold impact text: "INFINITE VOID" (white text, cyan glow, shake effect)
+
+SCENE 6 (12.0s - 14.0s): AFTERMATH
+Visual: Slow zoom into realistic AI art — Gojo's confident smirk, blindfold back on, one finger raised casually. Particles and ember-like blue energy floating around him.
+Motion: Gentle Ken Burns 1.0 → 1.06x, vignette darkening
+Audio: Music fading, reverb tail, deep bass echo
+Text: Final quote fading in: "I am the strongest." (white, subtle glow)
+
+SCENE 7 (14.0s - 15.0s): LOOP POINT
+Visual: Quick manga panel flash (same angle as Scene 1 blindfold close-up) → seamless visual loop
+Motion: Fast zoom to match opening frame scale
+Audio: Bass reverb tail connecting to opening rumble
+Text: —
+
+Narration (optional English VO):
+"They sealed the strongest sorcerer alive behind a blindfold. Not to protect you from him... but to protect reality itself from his gaze."
+
+Key Manga Panels Needed:
+- Gojo blindfold close-up (Chapter 1 / Chapter 11)
+- Gojo Six Eyes reveal (Chapter 52)
+- Infinity stance (Chapter 73)
+- Hollow Purple launch double-page (Chapter 75)
+- Domain hand sign (Chapter 15)
+
+Key Anime Moments Needed:
+- Blindfold removal (S1 EP 7 / S2 EP 4)
+- Red technique firing (S2 Hidden Inventory)
+- Hollow Purple beam (S2 Hidden Inventory EP 4)
+- Domain Expansion activation (S1 EP 7 vs Jogo)
+
+Realistic Art Prompts:
+- "Gojo Satoru removing blindfold revealing blazing neon cyan Six Eyes, dramatic backlighting, photorealistic, 9:16 vertical, 8k"
+- "Gojo Satoru floating mid-air arms outstretched, intense blue aura radiating outward, dark sky background, hyper-realistic, cinematic"
+- "Infinite Void domain interior, infinite black cosmos with hundreds of floating geometric eyeballs, victim frozen in space, surreal horror beauty, ultra detailed"
+- "Gojo Satoru close-up confident smirk, blindfold on, one finger raised, subtle blue energy particles floating, photorealistic portrait, 9:16"
+
+============================================================
+
+EDIT 002 — NAH, I'D WIN
+
+Theme: Gojo vs every opponent — the unshakeable confidence of knowing you literally cannot lose
+Mood: Cocky, dark, overwhelming power
+Duration: 20 seconds
+Music Vibe: Aggressive phonk (heavy cowbell, distorted bass)
+
+SCENE 1 (0.0s - 2.0s): HOOK — THE CHALLENGE
+Visual: Manga panel — Gojo standing relaxed, hands in pockets, facing a massive cursed spirit (Jogo). The size difference is absurd. Ken Burns slow zoom.
+Motion: Slow zoom 1.0 → 1.12x
+Audio: Low bass pulse, wind howling, distant thunder, Gojo's chuckle (Japanese VO clip)
+Text: —
+
+SCENE 2 (2.0s - 3.0s): BEAT DROP — THE SMIRK
+Visual: WHITE FLASH → Realistic AI art of Gojo's face — cocky half-smirk, blindfold slightly tilted, one eye barely visible (cyan glow leaking through)
+Motion: Snap zoom into face, subtle screen shake
+Audio: Bass drop + impact hit + Gojo voice clip: "弱いよ (Yowai yo)" [You're weak]
+Text: Kinetic text slam: "Nah, I'd win." (bold white, yellow stroke, slight tilt)
+
+SCENE 3 (3.0s - 10.0s): MAIN FLOW — THE BEATDOWN MONTAGE
+Visual: Rapid cuts through every Gojo fight —
+  - Anime: Gojo one-shots Jogo (crushing his head casually)
+  - → Manga panel: Gojo blocks Toji's blade with one finger
+  - → Anime: Red + Blue = Hollow Purple sequence
+  - → Realistic art: Gojo walking through flames untouched, Infinity deflecting everything
+  - → Manga: Gojo defeats 1000 Transfigured Humans in Shibuya
+  - → Anime: Speed blitz against multiple opponents
+  - → Realistic art: Gojo surrounded by destruction, completely unscratched, adjusting blindfold
+Motion: Hard cuts on every beat, speed ramp (slo-mo on the one-finger block → snap to high-speed), zoom punches, screen shake on every impact
+Audio: Full aggressive phonk, layered impact SFX on every hit, sub-bass booms, metallic crashes
+Text: Rotating kinetic quotes per fight:
+  - "Too fast."
+  - "Is that all?"
+  - "You're boring me."
+  - "My students fight harder than this."
+
+SCENE 4 (10.0s - 14.0s): BUILDUP → CLIMAX — HOLLOW PURPLE
+Visual: Manga panel of Gojo with both hands forward (Red in right, Blue in left). Screen starts shaking and glitching. Color bleeds from B&W manga into full color as Red+Blue merge.
+  → FLASH → Anime/Realistic hybrid: Hollow Purple fires — massive violet beam erasing everything in its path. Screen fills with purple light.
+Motion: Escalating shake → massive zoom punch → full-screen chromatic aberration → white-out → impact
+Audio: Energy charge build → HEAVY double bass drop → explosion boom → silence → reverb echo
+Text: "虚式「茈」" and "HOLLOW PURPLE" (violet text, white core glow, screen shake)
+
+SCENE 5 (14.0s - 16.0s): RESOLUTION — AFTERMATH WALK
+Visual: Realistic AI art — Gojo walking away from the destruction, back to camera, hands in pockets, blindfold on. Everything behind him is obliterated. Smoke and blue embers float in the air.
+Motion: Slow Ken Burns zoom out (1.15x → 1.0x) — revealing scale of destruction
+Audio: Music reduced, deep bass pad, wind sound, Gojo humming casually
+Text: Fading in: "There was never a fight. Just a demonstration."
+
+SCENE 6 (16.0s - 17.0s): LOOP
+Visual: Quick manga flash → back to opening panel (Gojo facing opponent, hands in pockets)
+Audio: Bass loop point
+Text: —
+
+Narration (optional):
+"Every opponent Gojo Satoru has ever faced made the same mistake. They thought strength was the gap between them. It wasn't. The gap was infinity itself."
+
+Key Manga Panels Needed:
+- Gojo vs Jogo size comparison (Chapter 14)
+- One-finger block against Toji (Chapter 73 Hidden Inventory)
+- Red + Blue hand position for Hollow Purple (Chapter 75)
+- Shibuya 1000-enemy battle (Chapter 84)
+
+Key Anime Moments Needed:
+- Jogo head crush (S1 EP 7)
+- Hollow Purple beam (S2 Hidden Inventory)
+- Speed blitz compilation
+- Walking through destruction
+
+Realistic Art Prompts:
+- "Gojo Satoru cocky smirk, blindfold tilted revealing one glowing cyan eye, dark background, photorealistic, dramatic lighting, 9:16"
+- "Gojo Satoru walking through inferno flames completely untouched, Infinity barrier visible as prismatic distortion, dark uniform, cinematic, 9:16"
+- "Gojo Satoru walking away from camera, massive destruction behind him, smoke and blue embers, hands in pockets casually, hyper-realistic, 9:16"
+
+============================================================
+
+EDIT 003 — HOLLOW PURPLE (THE FORBIDDEN TECHNIQUE)
+
+Theme: The moment Gojo combined Red and Blue to create the technique that shouldn't exist
+Mood: Escalating tension → devastating release → awe
+Duration: 22 seconds
+Music Vibe: Dark synthwave (electronic pulse building to crescendo)
+
+SCENE 1 (0.0s - 3.0s): HOOK — THE IMPOSSIBLE
+Visual: Manga panels cycling — ancient texts and scrolls describing "a technique lost to history." Close-up of Gojo's hands, one radiating red energy, one radiating blue.
+Motion: Slow panning across text panels → zoom into hands
+Audio: Deep electronic pulse, heartbeat rhythm, whispered voice: "Reversal Red. Lapse Blue. And then... the forbidden one."
+Text: Words appearing in sequence: "RED" (crimson glow) ... "BLUE" (ultramarine glow)
+
+SCENE 2 (3.0s - 5.0s): ESCALATION — COMBINING FORCES
+Visual: Anime clip — Gojo extends both hands. Red energy in right, Blue in left. Camera circles around him. Reality warps. Switch to manga: dramatic close-up of Six Eyes concentrating.
+Motion: Rotating camera effect (achieved by panning across wide panel), increasing screen vibration
+Audio: Electronic pulse intensifying, energy charge-up layered, glass cracking SFX, rising pitch drone
+Text: "RED + BLUE = ?" text trembling/shaking
+
+SCENE 3 (5.0s - 7.0s): THE MERGE
+Visual: Red and Blue energies collide between his palms. Reality shatters. Manga panel shows the birth of purple energy — ink lines exploding outward. Quick cut to realistic AI art of the merged energy sphere — swirling violet-magenta with a white-hot reality-erasing core.
+Motion: Zoom punch 1.0 → 1.6x, heavy chromatic aberration, screen shake
+Audio: BASS DROP + glass shatter cascade + thunder + Gojo: "虚式「茈」(Kyoshiki: Murasaki)"
+Text: "PURPLE" (massive violet text, reality-distortion effect, white core)
+
+SCENE 4 (7.0s - 14.0s): DEVASTATION — THE BEAM
+Visual: Full sequence —
+  - Anime: Hollow Purple fires as a massive beam
+  - → Manga: Double-page spread of the beam's path — buildings, forest, everything erased
+  - → Realistic art: Aerial view of the destruction trail — a perfect line of void carved through the landscape
+  - → Manga: Characters watching in absolute horror/awe
+  - → Anime: Slow-motion of the beam's tip erasing matter
+  - → Realistic art: Gojo standing at the origin point, arms still extended, purple afterglow
+Motion: Initial zoom punch → smooth tracking following beam path → hard cuts between perspectives → slow Ken Burns on destruction aftermath
+Audio: Sustained bass + destruction SFX (crumbling, tearing, wind roar) → silence → echo
+Text: Narration captions: "It doesn't destroy. It erases. Anything caught in its path... simply ceases to exist."
+
+SCENE 5 (14.0s - 18.0s): AFTERMATH — WHAT JUST HAPPENED
+Visual: Realistic AI art — Characters staring at the void left behind (a perfect line of nothingness). Cut to manga close-up of an enemy's face twisted in pure terror. Cut to anime — Gojo lowering his arms calmly.
+Motion: Slow zoom on faces, contrast between enemy fear and Gojo's calm
+Audio: Deep ambient drone, heartbeat, wind in the void
+Text: Quote appearing slowly: "That technique... was supposed to be impossible."
+
+SCENE 6 (18.0s - 20.0s): GOJO'S RESPONSE
+Visual: Realistic AI art — Gojo's face, knowing smirk, Six Eyes barely visible through loosened blindfold. Extreme detail on the eyes — entire universe reflected in the cyan iris.
+Motion: Ultra-slow zoom 1.0 → 1.05x into the eyes
+Audio: Music returns as low pulse, Gojo voice: "不可能？僕にはそんな言葉ない (Impossible? That word doesn't exist for me.)"
+Text: "Impossible? That word doesn't exist for me." (white, clean, centered)
+
+SCENE 7 (20.0s - 22.0s): LOOP
+Visual: Flash → manga panel of ancient text (same as opening) → loop
+Audio: Pulse loops
+Text: —
+
+Narration:
+"The Gojo clan had always known about Red. They had mastered Blue. But when Gojo Satoru combined them both in a single moment... he created a technique that was never supposed to exist. He didn't break the rules. He proved the rules never applied to him."
+
+Key Manga Panels Needed:
+- Ancient technique scroll panels (Chapter 74-75)
+- Gojo's hands with Red/Blue (Chapter 75)
+- Hollow Purple launch (Chapter 75 double-page spread)
+- Destruction aftermath aerial (Chapter 75-76)
+- Enemy reaction faces (Chapter 75)
+
+Key Anime Moments:
+- Red + Blue combination (S2 Hidden Inventory EP 4)
+- Hollow Purple beam firing
+- Destruction path shot
+- Gojo lowering arms post-technique
+
+Realistic Art Prompts:
+- "Gojo Satoru with red energy sphere in right hand and blue energy sphere in left hand, dark background, intense concentration, photorealistic, 9:16"
+- "Swirling violet-magenta energy sphere with white-hot core, reality warping around it, abstract cosmic destruction, ultra detailed, 9:16"
+- "Aerial view of destruction trail through landscape, perfect line of void/nothingness carved through forest and buildings, photorealistic satellite view, 9:16"
+- "Gojo Satoru extreme close-up on Six Eyes iris, entire universe reflected in neon cyan eye, photorealistic macro photography style, 9:16"
+
+============================================================
+
+EDIT 004 — THE PRISON REALM (THEY SEALED GOD)
+
+Theme: The Shibuya Incident — the moment Gojo was trapped and the world fell apart without him
+Mood: Melancholic, tragic, then rage-inducing
+Duration: 25 seconds
+Music Vibe: Slowed + reverb phonk → building to aggressive drop
+
+SCENE 1 (0.0s - 3.0s): HOOK — THE TRAP
+Visual: Manga panel — Gojo's shocked face as he realizes the Prison Realm is activating. His Six Eyes are wide. Ken Burns slow zoom. Dark, heavy shading.
+Motion: Slow zoom 1.0 → 1.15x, subtle vignette darkening
+Audio: Slowed reverb bass, distorted clock ticking, muffled crowd noise fading
+Text: —
+
+SCENE 2 (3.0s - 5.0s): THE SEAL
+Visual: Anime clip — the Prison Realm cube descending, purple chains wrapping around Gojo. His expression shifts from shock to resignation. Cut to manga: his hand reaching out from inside the cube.
+Motion: Slow motion (0.3x), slight screen shake as chains tighten
+Audio: Heavy sub-bass drop + chain clinking SFX + Gojo voice (reverb): "Geto... omae..."
+Text: "October 31st. Shibuya Station." (white text, blood-red underline, fading in)
+
+SCENE 3 (5.0s - 10.0s): THE WORLD WITHOUT GOJO
+Visual: Montage showing the chaos that follows —
+  - Manga: Cursed spirits running rampant, cities in flames
+  - → Anime: Sukuna's massacre in Shibuya
+  - → Realistic art: Dark apocalyptic Tokyo skyline, red sky, cursed energy storms
+  - → Manga: Jujutsu sorcerers struggling, falling, overwhelmed
+  - → Anime: Students grieving, fighting desperately without their teacher
+  - → Realistic art: Empty classroom at Jujutsu High, Gojo's sunglasses left on the desk
+Motion: Increasingly frantic cuts (getting faster), slight dutch angles, shake on violence
+Audio: Slowed phonk continues but distortion increases, layered screams (distant), impact hits on violence, rain ambience
+Text: Word-by-word narration: "When / they / sealed / the / strongest... / the / world / remembered / what / fear / felt / like."
+
+SCENE 4 (10.0s - 14.0s): INSIDE THE PRISON
+Visual: Realistic AI art — Gojo floating in the infinite void inside the Prison Realm. Completely still. Eyes closed. Surrounded by darkness and floating geometric fragments.
+  Cut to manga: close-up of his fist clenching inside the prison.
+  Cut to realistic art: his Six Eyes SNAPPING OPEN inside the darkness, blazing cyan in the void.
+Motion: Slow gentle float animation → SNAP zoom on eyes opening → screen shake
+Audio: Complete silence for 2 seconds → heartbeat → eyes open → MASSIVE bass drop
+Text: Silence... then: "You think a box can hold infinity?" (cyan text, glowing)
+
+SCENE 5 (14.0s - 20.0s): THE RETURN (RAGE BUILD)
+Visual: Rapid cuts —
+  - Manga: Prison Realm cracking, light pouring through
+  - → Anime: Explosive blue energy erupting from the cube
+  - → Realistic art: Gojo emerging from shattered Prison Realm, Six Eyes blazing, blindfold gone, hair wild, aura devastating
+  - → Manga: His silhouette standing over the freed cube, power lines radiating outward
+  - → Anime: Gojo stretching casually, cracking his neck, smiling
+  - → Realistic art: Full body portrait — Gojo at full power, ready for war, entire sky turning blue behind him
+Motion: Escalating speed, zoom punches on every cut, heavy screen shake on emergence, chromatic aberration on full power reveal
+Audio: Aggressive phonk drops in HARD, bass hits on every cut, thunder, energy explosion, Gojo voice (confident): "さあ、行こうか (Saa, ikou ka)" [Now then, shall we go?]
+Text: "HE'S BACK." (massive white text, impact slam, screen shake on text appearance)
+
+SCENE 6 (20.0s - 23.0s): AFTERMATH
+Visual: Realistic art — Gojo walking forward, blindfold off, Six Eyes glowing, casual but terrifying aura. Everything behind him is blue energy and destruction. The energy is so intense the air itself is visible.
+Motion: Slow confident walk cycle (Ken Burns), vignette
+Audio: Music fading to bass pad, wind, energy hum
+Text: "They sealed God for 19 days. He came back angrier." (white, clean)
+
+SCENE 7 (23.0s - 25.0s): LOOP
+Visual: Manga flash → prison realm panel → loop to opening
+Audio: Reverb tail → rumble loop
+Text: —
+
+Narration:
+"On October 31st, in the depths of Shibuya Station, they did the unthinkable. They sealed the strongest sorcerer in history inside a cube the size of a fist. For nineteen days, the world burned. Curses roamed free. Students bled. And inside that prison, in perfect silence... Gojo Satoru opened his eyes."
+
+Key Manga Panels Needed:
+- Gojo shocked face during sealing (Chapter 90-91)
+- Hand reaching from Prison Realm (Chapter 91)
+- Cursed spirits rampaging (Chapter 100+)
+- Students struggling without Gojo (Chapter 100-130)
+- Prison Realm cracking (Chapter 221)
+- Gojo silhouette post-emergence
+
+Key Anime Moments:
+- Prison Realm activation (S2 Shibuya Incident)
+- Chain wrapping sequence
+- Sukuna's Shibuya massacre
+- Gojo's return moment
+
+Realistic Art Prompts:
+- "Dark apocalyptic Tokyo skyline, blood-red sky, cursed energy storms, buildings damaged, terrifying atmosphere, photorealistic, 9:16"
+- "Gojo Satoru floating in infinite dark void inside Prison Realm, eyes closed, serene, geometric fragments floating, photorealistic, 9:16"
+- "Gojo Satoru emerging from shattered crystalline Prison Realm cube, Six Eyes blazing neon cyan, blindfold gone, wild white hair, devastating blue aura, photorealistic epic scale, 9:16"
+- "Gojo Satoru at full power walking forward, blindfold off, casual confident posture, entire sky turning electric blue behind him, photorealistic, cinematic, 9:16"
+
+============================================================
+
+EDIT 005 — GOJO VS SUKUNA (THE BATTLE OF GODS)
+
+Theme: The final showdown between the two strongest beings in history — Gojo vs Sukuna in Shinjuku
+Mood: Ultimate hype, peak action, bittersweet
+Duration: 25 seconds
+Music Vibe: Orchestral hybrid phonk (epic orchestra + heavy bass drops)
+
+SCENE 1 (0.0s - 2.0s): HOOK — THE STARE DOWN
+Visual: Split-screen manga panel — left half: Gojo's face (cocky grin, Six Eyes visible). Right half: Sukuna's face (sinister smirk, four eyes, tattoo marks). Both radiating aura.
+Motion: Slow zoom pulling both faces toward center
+Audio: Deep orchestral drone + heartbeat + distant thunder
+Text: "December 24th. Shinjuku." (white text, gold underline)
+
+SCENE 2 (2.0s - 4.0s): BOTH DOMAINS
+Visual: Manga: Both performing Domain hand signs simultaneously → FLASH → Anime: Infinite Void and Malevolent Shrine activating at the same time, domains clashing, space shattering between them
+Motion: Split-screen → merge → massive zoom punch, heavy screen shake
+Audio: Double bass drop + domain activation sound (deep resonance) + Gojo: "領域展開" + Sukuna: "伏魔御廚子"
+Text: "INFINITE VOID × MALEVOLENT SHRINE" (split text — cyan left, red right)
+
+SCENE 3 (4.0s - 12.0s): THE CLASH — BATTLE MONTAGE
+Visual: Absolute chaos —
+  - Anime: Gojo and Sukuna exchanging blows at impossible speed
+  - → Manga: Impact panels — fists colliding, shockwaves shattering buildings
+  - → Realistic art: Mid-clash freeze frame — both opponents suspended in air, fists about to connect
+  - → Anime: Red vs World Slash, Blue vs Dismantle
+  - → Manga: City blocks crumbling from the shockwaves alone
+  - → Realistic art: Aerial view of Shinjuku — massive crater, blue and red energy clashing in the center
+  - → Anime: Both fighters bloodied but grinning
+  - → Manga: Gojo's Hollow Purple vs Sukuna's Divine Flames
+Motion: Fastest cuts of any edit — matching every single beat hit, alternating zoom directions, speed ramps on every exchange, screen shakes layered, chromatic aberration on technique clashes
+Audio: Full orchestral phonk — orchestra swells under heavy bass, every punch = impact SFX, every technique = unique energy SFX, crowd of sorcerers gasping in background
+Text: Alternating kinetic quotes:
+  - "This is what I was born for."
+  - "Don't disappoint me, Sukuna."
+  - "Finally... an equal."
+
+SCENE 4 (12.0s - 16.0s): HOLLOW PURPLE VS WORLD SLASH
+Visual: The ultimate technique exchange —
+  - Manga: Gojo launches Hollow Purple
+  - → Anime: Purple beam fires across Shinjuku
+  - → Manga: Sukuna cuts the beam itself with World Slash (Slash that cuts the world)
+  - → Realistic art: The two techniques colliding — purple energy vs crimson slash — creating a reality tear
+  - → White-out
+Motion: Extended zoom punch, maximum chromatic aberration, screen fills with light
+Audio: Sustained energy charge → DOUBLE bass drop → explosion → brief silence → echo
+Text: "HOLLOW PURPLE" vs "WORLD SLASH" (clashing text effect — purple text from left, red from right, colliding in center)
+
+SCENE 5 (16.0s - 21.0s): THE SMILE
+Visual: After the dust settles —
+  - Manga: Both standing, battered, bloodied, barely upright
+  - → Anime: Close-up of Gojo's face — beaten, bleeding, but wearing the most genuine smile of his life
+  - → Realistic art: Gojo portrait — bruised, blood from forehead, Six Eyes still blazing, and the most peaceful, fulfilled smile
+  - → Manga: Gojo thinking his final thought
+Motion: Slow zoom, all motion calming, vignette deepening
+Audio: Music drops to soft, emotional piano/strings layered under quiet bass, wind, Gojo's voice soft: "楽しかった (It was fun.)"
+Text: "This was the happiest moment of his life." (white, clean, emotional weight)
+
+SCENE 6 (21.0s - 23.0s): THE LEGACY
+Visual: Realistic art — Gojo's back, walking into a white void/light, turning to look over his shoulder one last time with that smile. His students visible in silhouette behind him (Yuji, Megumi, Nobara).
+Motion: Slow pull-back zoom, light increasing
+Audio: Soft reverb, emotional swell, fading
+Text: "The strongest didn't fight to win. He fought to finally feel alive." (fading in, centered)
+
+SCENE 7 (23.0s - 25.0s): LOOP
+Visual: Flash → split-screen manga panel (opening stare-down) → loop
+Audio: Orchestral drone loops back to heartbeat
+Text: —
+
+Narration:
+"On December 24th, in the heart of Shinjuku, two gods went to war. One who had conquered everything and felt nothing. One who had been sealed, betrayed, and burdened with being the strongest. When Gojo Satoru finally found an opponent who could match him blow for blow... he didn't fight with rage. He fought with joy. Because for the first time in his entire life... he wasn't alone at the top."
+
+Key Manga Panels Needed:
+- Split face stare-down (Chapter 222-223)
+- Double Domain activation (Chapter 223)
+- Combat exchange panels (Chapter 224-230)
+- Hollow Purple launch (Chapter 228)
+- Gojo smiling while bloodied (Chapter 235-236)
+- Gojo's back walking into light (Chapter 236)
+
+Key Anime Moments:
+- Domain Expansion double activation
+- High-speed combat exchanges
+- Technique clashes (Red/Blue vs Cleave/Dismantle)
+- Hollow Purple beam
+
+Realistic Art Prompts:
+- "Split composition — left: Gojo Satoru Six Eyes cyan glow confident grin, right: Sukuna four red eyes sinister smirk, dark background, cinematic face-off, 9:16"
+- "Gojo Satoru mid-air combat freeze frame, fist extended, bloodied jujutsu uniform, Six Eyes blazing, destroyed cityscape below, photorealistic, 9:16"
+- "Gojo Satoru close-up portrait, bruised and bleeding, but wearing most genuine peaceful smile, Six Eyes glowing softly, emotional photorealistic, 9:16"
+- "Gojo Satoru walking into white light, back to viewer, looking over shoulder with peaceful smile, student silhouettes behind him, ethereal cinematic, 9:16"
+
+============================================================
+
+EDIT 006 — SIX EYES (THE CURSE OF SEEING EVERYTHING)
+
+Theme: What it means to be born with eyes that see everything — the loneliness of infinite perception
+Mood: Melancholic, introspective, hauntingly beautiful
+Duration: 20 seconds
+Music Vibe: Slowed + reverb ambient (emotional, atmospheric)
+
+SCENE 1 (0.0s - 3.0s): HOOK — THE EYES
+Visual: Extreme macro close-up — a single Six Eyes iris. Realistic AI art — the iris contains swirling galaxies, mathematical equations, cursed energy flows. It's beautiful and terrifying.
+Motion: Ultra-slow zoom into the iris, depth layers animating inside
+Audio: Soft ambient drone, crystalline chime, distant heartbeat
+Text: —
+
+SCENE 2 (3.0s - 6.0s): THE GIFT
+Visual: Manga montage — young Gojo (Hidden Inventory arc) discovering his abilities. Seeing cursed energy for the first time. Everything glowing with information.
+  → Anime: Young Gojo looking at the world in wonder, Six Eyes revealing hidden layers of reality.
+Motion: Gentle panning across panels, soft transitions
+Audio: Emotional ambient music swelling, young voice clip (wonder in tone)
+Text: "At six years old, Gojo Satoru saw things no human was meant to see."
+
+SCENE 3 (6.0s - 10.0s): THE CURSE
+Visual: → Realistic art: Gojo's POV — the world overloaded with information. Every person has visible cursed energy, every object radiates data, mathematical constructs float in the air. Beautiful but overwhelming.
+  → Manga: Gojo sitting alone on a rooftop, blindfold on, shutting out the world
+  → Anime: Gojo in a crowd, everyone a blur, the loneliest person in the room
+Motion: Glitch effect showing information overload, then calming to slow zoom on isolation panels
+Audio: Music becomes heavier, more melancholic, slight audio distortion during overload, then simplifying
+Text: "He sees everything. Every lie. Every curse. Every death before it happens. So he covers his eyes... not from weakness. From mercy."
+
+SCENE 4 (10.0s - 14.0s): THE WEIGHT
+Visual: Realistic art — Gojo standing at sunset, blindfold on, wind in his hair, completely alone on a vast empty landscape. The loneliest person alive.
+  → Manga: His thought bubble: "Being the strongest means being alone."
+  → Anime: Flashback — Gojo and Geto as friends, then Geto leaving, then Gojo alone
+Motion: Slow emotional Ken Burns, color desaturating slightly
+Audio: Piano melody entering, emotional, bittersweet, wind sounds
+Text: "The strongest sorcerer in history... and the loneliest."
+
+SCENE 5 (14.0s - 18.0s): BUT STILL
+Visual: → Anime: Gojo teaching his students (Yuji, Megumi, Nobara), smiling genuinely
+  → Realistic art: Gojo with blindfold off, Six Eyes visible, but his expression is warm — looking at his students with pride
+  → Manga: Gojo's internal monologue — "I'll change this world. Not alone. Through them."
+Motion: Warmer tones, brighter lighting, slight zoom
+Audio: Music lifts, becomes hopeful, strings entering
+Text: "He chose to see beauty in the chaos. He chose to teach. To protect. To believe."
+
+SCENE 6 (18.0s - 20.0s): LOOP
+Visual: Flash → Six Eyes macro close-up (same as opening) → but this time the iris contains reflections of his students instead of galaxies → loop
+Audio: Ambient loop point
+Text: —
+
+Narration:
+"The Six Eyes don't just see cursed energy. They see everything. Every atom. Every lie. Every death a second before it happens. Most people born with this power would go insane. Gojo Satoru chose to cover his eyes instead. Not because he was weak. Because seeing everything... and still choosing to care... is the heaviest burden in existence."
+
+Realistic Art Prompts:
+- "Extreme macro of Gojo Satoru Six Eyes iris, swirling galaxies and mathematical equations visible inside neon cyan eye, hyper-detailed, photorealistic, 9:16"
+- "First-person POV from Six Eyes — world overloaded with glowing cursed energy data, people radiating colorful aura, mathematical constructs floating, overwhelming information, stylized photorealistic, 9:16"
+- "Gojo Satoru standing alone at sunset on vast empty landscape, blindfold on, wind in white hair, melancholic lonely atmosphere, photorealistic cinematic, 9:16"
+- "Gojo Satoru Six Eyes visible, warm expression, looking down at viewer with genuine pride, soft golden lighting, emotional photorealistic portrait, 9:16"
+
+============================================================
+
+EDIT 007 — THROUGHOUT HEAVEN AND EARTH
+
+Theme: The most iconic quote in anime — the moment Gojo declared himself the strongest being in existence
+Mood: Pure, raw, overwhelming power declaration
+Duration: 15 seconds (tight and punchy — maximum loop potential)
+Music Vibe: Drift phonk (maximum bass, minimal melody, raw aggression)
+
+SCENE 1 (0.0s - 1.0s): HOOK — SILENCE BEFORE THE STORM
+Visual: Manga panel — Gojo standing still, eyes closed, in darkness. Absolute calm.
+Motion: Static hold (no zoom) — the stillness IS the tension
+Audio: Complete silence (0.5s) → single deep heartbeat
+Text: —
+
+SCENE 2 (1.0s - 3.0s): THE DECLARATION BEGINS
+Visual: → Anime clip: Gojo opens his eyes. Six Eyes BLAZE. Camera pushes into his face.
+  → Cut to realistic art: extreme close-up of lips speaking the words
+Motion: Sharp zoom 1.0 → 1.3x on eye open
+Audio: Gojo's voice (Japanese, full reverb + bass boost): "天上天下..." (Tenjō Tenge...)
+Text: "天上天下..." (Japanese characters appearing, gold stroke)
+
+SCENE 3 (3.0s - 5.0s): POWER SURGE
+Visual: FLASH → Montage of Gojo's greatest moments at high speed — Domain, Hollow Purple, Red, Blue, Infinity — manga and anime intercut at 4 cuts per second
+Motion: Rapid-fire hard cuts, zoom punches alternating, chromatic aberration throughout
+Audio: Bass drops on every cut, impact hits stacking, energy building
+Text: "唯我独尊" (Yuiga Dokuson) building character by character
+
+SCENE 4 (5.0s - 7.0s): THE FULL QUOTE
+Visual: Realistic AI art — Gojo at full power. Six Eyes blazing. Aura so intense the air is visible. Standing on nothing — floating in space with cursed energy swirling around him like a galaxy. Arms slightly raised.
+Motion: MASSIVE zoom punch 1.0 → 1.5x + screen shake + full chromatic aberration
+Audio: TRIPLE bass drop + thunder cascade + Gojo: "...唯我独尊!" (...Yuiga Dokuson!)
+Text: "THROUGHOUT HEAVEN AND EARTH, I ALONE AM THE HONORED ONE" (full text SLAMMING onto screen, white with cyan glow, each word hitting on a beat)
+
+SCENE 5 (7.0s - 10.0s): THE POWER DISPLAY
+Visual: Raw power showcase —
+  - Anime: Infinity activating, attacks bouncing off
+  - → Manga: Enemies crumbling
+  - → Realistic art: Gojo floating above destroyed landscape, godlike presence
+Motion: Smooth flowing cuts, slightly slower than Scene 3, letting the power breathe
+Audio: Full phonk beat, confident energy, sub-bass sustaining
+Text: —
+
+SCENE 6 (10.0s - 13.0s): THE LOOK
+Visual: Realistic art — Gojo looking directly at camera/viewer. Breaking the fourth wall. Six Eyes glowing. The slightest smirk. As if to say "You already knew."
+Motion: Ultra-slow zoom 1.0 → 1.04x, dead-center framing
+Audio: Music pulling back, bass echoing, ambient hum
+Text: "I am the strongest." (simple, clean, white, centered, devastating)
+
+SCENE 7 (13.0s - 15.0s): LOOP
+Visual: Hard cut → manga panel (darkness, eyes closed) → exact match to Scene 1 → infinite loop
+Audio: Silence → heartbeat → loops
+Text: —
+
+Narration: None (pure visual + music + voice line — no English narration needed for this one)
+
+Realistic Art Prompts:
+- "Gojo Satoru at absolute full power, floating in space, Six Eyes blazing neon cyan, cursed energy swirling like galaxy around him, arms raised, godlike presence, hyper-realistic, 9:16"
+- "Gojo Satoru extreme close-up looking directly at viewer, breaking fourth wall, Six Eyes glowing, subtle confident smirk, dark background, photorealistic portrait, 9:16"
+
+============================================================
+
+EDIT 008 — THE TEACHER (SENSEI GOJO)
+
+Theme: Behind the strongest sorcerer is the best teacher — Gojo's love for his students
+Mood: Warm, proud, emotional (tears-inducing)
+Duration: 22 seconds
+Music Vibe: Emotional lo-fi + soft orchestral (warm, nostalgic)
+
+SCENE 1 (0.0s - 3.0s): HOOK — THE CLASSROOM
+Visual: Realistic AI art — empty Jujutsu High classroom, morning sunlight streaming through windows. Gojo's blindfold hanging on his chair. Chalk on the board reads: "Today's lesson: Don't die."
+Motion: Slow pan across classroom, warm color grading
+Audio: Soft piano notes, birds chirping, school bell in distance
+Text: —
+
+SCENE 2 (3.0s - 7.0s): THE STUDENTS
+Visual: Manga panels — moments with each student:
+  - Gojo ruffling Yuji's hair after a tough mission
+  - Teaching Megumi to use Domain Expansion
+  - Buying sweets for the group (casual Gojo being silly)
+  → Anime: Compilation of Gojo being goofy, loving, and caring with students
+Motion: Gentle transitions, warm cross-fades (not hard cuts — this edit is emotional)
+Audio: Lo-fi beat enters, warm bass, Gojo's voice (gentle): "My students are the future."
+Text: "He could've ruled the world. He chose to teach instead."
+
+SCENE 3 (7.0s - 11.0s): THE PROTECTOR
+Visual: → Anime: Gojo standing in front of his students, facing danger, shield pose
+  → Manga: Gojo fighting to protect (not for himself — for them)
+  → Realistic art: Gojo standing between his students and a massive cursed spirit, arms spread wide, Infinity active, back to the students, facing the threat alone
+Motion: Slightly more dynamic, zoom on protective stance, but still warm
+Audio: Music swelling, emotional strings entering, heartbeat
+Text: "The strongest barrier in the world... isn't Infinity. It's a teacher who refuses to let his students die."
+
+SCENE 4 (11.0s - 15.0s): THE SACRIFICE
+Visual: → Manga: Gojo being sealed (Shibuya), his last look at his students before the Prison Realm closes
+  → Anime: Students' faces when they learn Gojo is gone
+  → Realistic art: Gojo inside Prison Realm, eyes closed, peaceful — because he knows his students will carry on
+Motion: Slower, heavier, emotional weight
+Audio: Music drops to solo piano, Gojo's voice (echo, inside prison): "I believe in you."
+Text: "He wasn't afraid of the Prison Realm. He was afraid his students would think he abandoned them."
+
+SCENE 5 (15.0s - 19.0s): THE LEGACY
+Visual: → Anime: Students fighting without Gojo — growing stronger, using what he taught them
+  → Manga: Yuji achieving new power, Megumi pushing limits
+  → Realistic art: Students standing together in a line, strong, determined — with Gojo's translucent silhouette smiling behind them
+Motion: Building energy, cuts getting slightly faster, hopeful
+Audio: Music lifting, becoming triumphant but emotional, strings + soft phonk bass
+Text: "His greatest technique wasn't Infinity. It was making them believe they could stand without him."
+
+SCENE 6 (19.0s - 22.0s): LOOP
+Visual: Realistic art — Gojo's hand placing the blindfold on his chair → sunlight → empty classroom → loop
+Audio: Piano notes resolving, birds, bell → gentle loop
+Text: Small, quiet: "The best teachers don't create followers. They create equals."
+
+Narration:
+"Everyone talks about Gojo Satoru the sorcerer. The Six Eyes. The Infinity. The Domain. But the real Gojo? He was a teacher. He fought the entire jujutsu establishment to protect first-years that everyone else wanted dead. He chose to raise the next generation instead of ruling alone at the top. And when they sealed him... his only thought wasn't about escape. It was: 'I hope I gave them enough.'"
+
+Realistic Art Prompts:
+- "Empty Japanese school classroom, morning sunlight through windows, black blindfold hanging on chair, chalk board reading 'Don't die', warm nostalgic atmosphere, photorealistic, 9:16"
+- "Gojo Satoru standing protectively between three young students and massive dark cursed spirit, arms spread wide, Infinity barrier visible, back to students, heroic, photorealistic, 9:16"
+- "Three young jujutsu sorcerers standing in determined line, translucent glowing silhouette of Gojo Satoru smiling proudly behind them, emotional cinematic, photorealistic, 9:16"
+
+============================================================
+
+EDIT 009 — INFINITY (NOTHING TOUCHES HIM)
+
+Theme: The concept of Infinity as a defensive technique — the philosophical terror of never being able to reach someone
+Mood: Eerie, unsettling, awe-inspiring
+Duration: 18 seconds
+Music Vibe: Dark ambient + glitch (unsettling electronic)
+
+SCENE 1 (0.0s - 2.0s): HOOK — THE ATTEMPT
+Visual: Manga panel — a powerful cursed spirit lunging at Gojo with everything it has. Massive attack. Life-or-death strike.
+Motion: Speed ramp — fast approach 3x → FREEZE at the moment of contact
+Audio: Aggressive swoosh → sudden silence at freeze
+Text: —
+
+SCENE 2 (2.0s - 4.0s): THE STOP
+Visual: → Realistic art: The attack frozen millimeters from Gojo's face. He hasn't moved. Hasn't flinched. His expression is bored. The attack literally cannot reach him.
+  Zoom into the gap between attack and skin — there's an infinite mathematical void visible in that tiny space.
+Motion: Ultra-slow zoom into the gap between attack and Gojo's face
+Audio: Deep electronic drone, mathematical computation sounds, Gojo's voice (bored): "Infinity."
+Text: "The gap between you and me... is infinite." (text appearing in the void between attack and face)
+
+SCENE 3 (4.0s - 8.0s): THE EXPLANATION
+Visual: Stylized visualization —
+  - Realistic art: The mathematical concept of convergent series visualized. An arrow getting infinitely close to a point but never reaching it. Zeno's paradox made visible.
+  - → Manga: Multiple attacks from different angles — all stopping before contact
+  - → Anime: Bullets, fists, blades, cursed techniques — everything stopping
+Motion: Geometric animation effect, manga panels cycling with impacts freezing
+Audio: Electronic pulse beat, each stopped attack = a bass thud + silence
+Text: "Imagine dividing the space between you and him... forever. 1/2. 1/4. 1/8. 1/16. You move infinitely... but never arrive."
+
+SCENE 4 (8.0s - 12.0s): THE HORROR
+Visual: → Realistic art: Enemy's perspective — Gojo standing just 3 feet away, but the space between them is warped into an endless geometric tunnel. He's right there... and infinitely far.
+  → Manga: Enemy's face — pure existential terror
+  → Anime: Gojo yawning during the attack
+Motion: POV push-in that never reaches Gojo (camera moves forward but he stays same distance)
+Audio: Unsettling ambient drone intensifying, heartbeat accelerating, glitch sounds
+Text: "He's three feet away. And you will NEVER reach him."
+
+SCENE 5 (12.0s - 16.0s): THE EXCEPTION
+Visual: → Manga: Domain Expansion — the one counter to Infinity
+  → Anime: Inside a Domain, Infinity is nullified — attacks finally connect
+  → Realistic art: Gojo being hit for the first time — his expression isn't pain. It's excitement.
+Motion: Flash transition, zoom punch, screen shake on first real hit
+Audio: Bass drop + impact on the hit + Gojo laughing + music shift to aggressive
+Text: "But sometimes... someone breaks through. And that's when Gojo starts smiling."
+
+SCENE 6 (16.0s - 18.0s): LOOP
+Visual: Flash → manga panel of attack lunging (same as Scene 1) → FREEZE → loop
+Audio: Swoosh → silence → loop
+Text: —
+
+Realistic Art Prompts:
+- "Attack frozen millimeters from Gojo Satoru's bored face, mathematical infinity void visible in the tiny gap, distortion field, surreal photorealistic, 9:16"
+- "First-person perspective looking at Gojo Satoru 3 feet away, but space between is warped into infinite geometric tunnel, never reaching him, surreal horror, 9:16"
+- "Gojo Satoru being hit for first time, not in pain but grinning with excitement, blood from cut, Six Eyes blazing, photorealistic action portrait, 9:16"
+
+============================================================
+
+EDIT 010 — GOJO AND GETO (BROTHERS)
+
+Theme: The tragic friendship between Gojo and Geto — from best friends to mortal enemies
+Mood: Nostalgic → heartbreaking → devastating
+Duration: 25 seconds
+Music Vibe: Emotional slowed + reverb (sad, heavy, beautiful)
+
+SCENE 1 (0.0s - 4.0s): HOOK — THE GOOD DAYS
+Visual: Manga panels — young Gojo and Geto at Jujutsu High. Laughing together. Training together. Being idiots together. The best of friends.
+  → Anime: Hidden Inventory arc — both of them walking side by side, equals.
+Motion: Warm, gentle cross-fades, nostalgic sepia tint
+Audio: Soft emotional slowed beat, piano, rain starting softly
+Text: "There was a time... when the strongest sorcerer had a best friend."
+
+SCENE 2 (4.0s - 8.0s): THE FRACTURE
+Visual: → Manga: The moment Geto starts questioning jujutsu society. Seeing innocent sorcerers die for civilians who hate them. His eyes darkening.
+  → Anime: Geto's descent — killing the Star Plasma Vessel's believers, the weight crushing him
+  → Realistic art: Split portrait — half Gojo (bright, cyan aura) / half Geto (dark, shadow) — the divergence
+Motion: Cuts getting sharper, color temperature shifting from warm to cold
+Audio: Music distorting, bass getting heavier, Geto's voice: "Why do we protect people who despise us?"
+Text: "Same pain. Same questions. Different answers."
+
+SCENE 3 (8.0s - 14.0s): THE GOODBYE
+Visual: The iconic goodbye scene —
+  → Manga: Gojo and Geto meeting on that snowy street. Geto in his monk robes. Gojo can't bring himself to act.
+  → Anime: Their final conversation. Gojo asking: "Are you the strongest because you're Geto Suguru? Or are you Geto Suguru because you're the strongest?"
+  → Realistic art: Both standing in falling snow, 10 feet apart, facing each other — the distance between them infinite in a different way than Gojo's technique
+Motion: Slow, heavy, snow particle overlay, gentle zoom
+Audio: Emotional peak — strings swelling, Gojo's voice cracking, snow ambience, Gojo: "最期に... 僕の親友だよ" (In the end... you're my best friend.)
+Text: "In the end... you're my best friend." (white text on snow, devastating)
+
+SCENE 4 (14.0s - 18.0s): THE AFTERMATH
+Visual: → Manga: Gojo alone after Geto's death. Standing in the snow. Not crying — but the emptiness is worse.
+  → Realistic art: Gojo sitting alone in the dark, blindfold off, Six Eyes dull — no glow — staring at nothing
+  → Anime: Gojo putting his blindfold back on, hiding behind it again
+Motion: Static holds, vignette deepening, desaturation
+Audio: Music drops to near-silence, single piano notes, wind
+Text: "The strongest sorcerer in the world... and he couldn't save his only friend."
+
+SCENE 5 (18.0s - 23.0s): THE WEIGHT CARRIED
+Visual: → Realistic art: Gojo walking alone through empty streets, Geto's ghost/memory translucent beside him, both walking in step like they used to
+  → Manga: Present-day Gojo being his goofy self with students — but a panel shows his eyes behind the blindfold, and they're sad
+  → Anime: Gojo fighting pseudo-Geto in Shibuya, rage barely contained
+Motion: Dual-timeline parallel editing (past warmth vs present cold)
+Audio: Music building again, emotional, conflicted energy
+Text: "He laughs louder now. Jokes more. Acts sillier. Because if he stops smiling for even a second... the grief will swallow him whole."
+
+SCENE 6 (23.0s - 25.0s): LOOP
+Visual: Flash → young Gojo and Geto walking together (same as opening) → warm tint → loop
+Audio: Soft piano → gentle loop
+Text: —
+
+Narration:
+"Gojo Satoru and Geto Suguru were once inseparable. The strongest duo in jujutsu history. They shared the same burden — being too powerful for anyone else to understand. But where Gojo chose to protect humanity despite its flaws... Geto chose to erase it. On a cold December night, on a snow-covered street, the strongest sorcerer watched his only friend walk away forever. He could have stopped him. He didn't. Because the one barrier Gojo Satoru could never create... was between his heart and the people he loved."
+
+Realistic Art Prompts:
+- "Split portrait — left half: young Gojo Satoru bright cyan aura smiling, right half: young Geto Suguru dark shadow descending, diverging paths, emotional photorealistic, 9:16"
+- "Gojo Satoru and Geto Suguru standing 10 feet apart in falling snow on empty street, facing each other, emotional distance, cinematic photorealistic, 9:16"
+- "Gojo Satoru sitting alone in dark room, blindfold off, Six Eyes dull and lifeless, staring at nothing, profound emptiness, photorealistic portrait, 9:16"
+- "Gojo Satoru walking through empty street, translucent ghost of Geto Suguru walking beside him in step, nostalgic bittersweet, photorealistic, 9:16"
+
+============================================================
